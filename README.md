@@ -3,7 +3,6 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <img align="left" alt="coding" width="400" src="https://github.com/SundeepKumar07/SundeepKumar07/blob/main/Images/images.png" >
-<img align="right" alt="coding" width="400" src="https://github.com/SundeepKumar07/SundeepKumar07/blob/main/Images/istockphoto-1979289147-612x612.jpg" height="390">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundeepkumar07&label=Profile%20views&color=0e75b6&style=flat" alt="sundeepkumar07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundeepkumar07" alt="sundeepkumar07" /></a> </p>
