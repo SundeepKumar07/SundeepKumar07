@@ -23,7 +23,7 @@
 - 🌱 Currently deepening my skills in **React, Next.js, Node.js, and system architecture**
 - 🛠️ I've shipped **15+ projects** spanning SaaS platforms, mobile apps, and low-level hardware design
 - 📍 Based in **Rahim Yar Khan, Pakistan**
-- 💬 Ask me about **JavaScript, React, Node.js, PostgreSQL, or Computer Architecture**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, PostgreSQL, MySQL or Computer Architecture**
 - 📫 Reach me at **sundeepkumar1740@gmail.com**
 - ⚡ Fun fact: **I turn coffee and bugs into working products** ☕🐛
 
@@ -149,9 +149,9 @@ Interactive desktop app visualizing sorting and search algorithms step-by-step t
 
 ### 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32"/></a>
-<a href="https://fb.com/sundeep007kumar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="32" height="32"/></a>
-<a href="https://instagram.com/sundeep_kumar07_danian" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32"/></a>
+<a href="https://www.linkedin.com/in/sundeep-kumar07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32"/></a>
+<a href="https://www.facebook.com/Sundeep707?mibextid=ZbWKwL" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="32" height="32"/></a>
+<a href="https://www.instagram.com/light.of.deep?igsh=eGZydjRodHI3YmY0" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32"/></a>
 <a href="mailto:sundeepkumar1740@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="32" height="32"/></a>
 
 <br/><br/>
